@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*
+{
+  font-family: "Open Sans", sans-serif;
+}
+body
+{
+  background-color: rgb(136, 143, 179);
+}
+.auth
+{
+  /* overflow: hidden; */
+  min-height: 100vh;
+
+  background-size: cover;
+  /* filter: opacity(0.7); */
+  background-position: center;
+  background-image: url('https://media.istockphoto.com/id/1492645918/photo/survey-form-concept-businessman-using-laptops-do-online-checklist-surveys-questionnaire-with.jpg?s=612x612&w=0&k=20&c=lqbzWDBLxqRe99kOz2GwfWDRzkVduf2BvUzn1NBGh7Q=');
+}
